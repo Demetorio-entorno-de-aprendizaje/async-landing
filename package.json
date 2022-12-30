@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Demetorio/async-landing.git"
+    "url": "git+https://github.com/Demetorio-entorno-de-aprendizaje/async-landing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Demetorio/async-landing/issues"
+    "url": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing.git/issues"
   },
-  "homepage": "https://github.com/Demetorio/async-landing#readme",
+  "homepage": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing.git/async-landing#readme",
   "dependencies": {
     "node": "^19.3.0"
   },
