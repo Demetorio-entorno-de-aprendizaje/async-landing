@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing.git/issues"
+    "url": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing/issues"
   },
-  "homepage": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing.git/async-landing#readme",
+  "homepage": "https://github.com/Demetorio-entorno-de-aprendizaje/async-landing#readme",
   "dependencies": {
     "node": "^19.3.0"
   },
